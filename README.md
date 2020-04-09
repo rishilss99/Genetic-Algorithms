@@ -15,5 +15,6 @@ Optimization results:
 
 ## Feature Selection for Machine Learning
 We work with the Friedman 1 dataset provided by Scikit-learn: [Friedman1 Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_friedman1.html)  
-Feature Selection results:
+Feature Selection results:  
+</br>
 ![Feature Selection](Images/ML_Plot.png)
