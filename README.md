@@ -1,7 +1,7 @@
 # Genetic Algorithm implementations in Python
 Implementation of Genetic algorithms for applications:
 - Optimizing continuous functions
-- Feature selection for Machine learning algorithms
+- Feature selection for Machine learning problems
 - Hypertuning Machine learning algorithms
 ## Optimizing the Eggholder function
 The Eggholder function is given by: 
@@ -12,3 +12,8 @@ The Eggholder function is given by:
 </br>
 Optimization results:
 ![Optimization](Images/Opti_graph.png)
+
+## Feature Selection for Machine Learning
+We work with the Friedman 1 dataset provided by Scikit-learn: [Friedman1 Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_friedman1.html)  
+Feature Selection results:
+![Feature Selection](Images/ML_Plot.png)
