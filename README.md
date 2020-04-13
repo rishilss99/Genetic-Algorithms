@@ -17,4 +17,6 @@ Optimization results:
 We work with the Friedman 1 dataset provided by Scikit-learn: [Friedman1 Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_friedman1.html)  
 Feature Selection results:  
 </br>
-![Feature Selection](Images/ML_Plot.png)
+<p align="center">
+  <img width="600" height="400" src="Images/ML_Plot.png">
+</p>
